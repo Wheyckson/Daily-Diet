@@ -9,9 +9,11 @@
 
 <p align="center">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Wheyckson/react-native-todoList.svg">  
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Wheyckson/Daily-Diet.svg">  
+
+  
  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Wheyckson/react-native-todoList.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Wheyckson/Daily-Diet.svg">
 
 </p>
 
