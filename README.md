@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="IgniteReact" title="#IgniteReact" src="assets/home.png" width="400" height="400"/>
-    <img alt="IgniteReact" title="#IgniteReact" src="assets/keepit.png" width="400" height="400"/>
+    <img alt="IgniteReact" title="#IgniteReact" src="src/assets/home.png" width="400" height="400"/>
+    <img alt="IgniteReact" title="#IgniteReact" src="src/assets/keepit.png" width="400" height="400"/>
 </h1>
 
 <h4 align="center"> 
